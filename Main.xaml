@@ -231,6 +231,6 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:MessageBox Caption="{x:Null}" AutoCloseAfter="00:00:00" Buttons="Ok" ChosenButton="[messageBoxChosenButton]" DisplayName="Show message box with &quot;Success&quot;" sap:VirtualizedContainerService.HintSize="416,117" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Welcome to UiPath - Git Repository&quot;]" TopMost="False" />
-    <ui:LogMessage DisplayName="Log message &quot;Success&quot;" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Project successfully completed&quot;]" />
+    <ui:LogMessage DisplayName="Log message &quot;Success&quot;" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Project successfully completed for GitHub testing&quot;]" />
   </Sequence>
 </Activity>
